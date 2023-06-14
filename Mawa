@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+  <title>Mawa Express - Pengiriman Luar Negeri</title>
+
+  <!-- Tambahkan CSS dan JavaScript di sini jika diperlukan -->
+
+</head>
+
+<body>
+
+  <!-- Header -->
+
+  <header>
+
+    <img src="logo.png" alt="Mawa Express Logo">
+
+    <nav>
+
+      <ul>
+
+        <li><a href="index.html">Beranda</a></li>
+
+        <li><a href="layanan.html">Layanan</a></li>
+
+        <li><a href="tentang.html">Tentang Kami</a></li>
+
+        <li><a href="hubungi.html">Hubungi Kami</a></li>
+
+      </ul>
+
+    </nav>
+
+  </header>
+
+  <!-- Konten Beranda -->
+
+  <section>
+
+    <h1>Selamat datang di Mawa Express!</h1>
+
+    <p>Kami menyediakan solusi pengiriman luar negeri yang handal dan cepat.</p>
+
+    <p>Daftar layanan pengiriman kami:</p>
+
+    <ul>
+
+      <li>Pengiriman Ekonomi</li>
+
+      <li>Pengiriman Cepat</li>
+
+      <li>Asuransi Pengiriman</li>
+
+      <li>Pelacakan Pengiriman</li>
+
+    </ul>
+
+    <a href="penawaran.html">Dapatkan Penawaran</a>
+
+  </section>
+
+  <!-- Footer -->
+
+  <footer>
+
+    <nav>
+
+      <ul>
+
+        <li><a href="index.html">Beranda</a></li>
+
+        <li><a href="layanan.html">Layanan</a></li>
+
+        <li><a href="tentang.html">Tentang Kami</a></li>
+
+        <li><a href="hubungi.html">Hubungi Kami</a></li>
+
+      </ul>
+
+    </nav>
+
+    <p>Hak Cipta © 2023 Mawa Express. Semua hak dilindungi.</p>
+
+  </footer>
+
+</body>
+
+</html>
+
